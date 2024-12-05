@@ -1,0 +1,6 @@
+@API.LivroDigital_HostAddress = http://localhost:5151
+
+GET {{API.LivroDigital_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
